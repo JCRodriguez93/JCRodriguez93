@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Mi nombre es Jorge, y soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, actualmente estudiando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** con una gran interés por el ecosistema de **Java** y **Spring**.
+¡Hola! Mi nombre es Jorge, y soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, actualmente estudiando **Técnico Superior en Desarrollo de Aplicaciones Web** con una gran interés por el ecosistema de **Java** y **Spring**.
 
 De momento, mi experiencia se centra en aplicaciones monolíticas, luego ya iremos viendo poco a poco hasta donde me lleva este camino. Además, en algunos casos, suelo estar utilizando herramientas como YAML para la creación de APIs y bases de datos relacionales como PostgreSQL y MySQL.
 
