@@ -1,5 +1,5 @@
 # Jorge Campos Rodríguez
-### Desarrollador de Software
+### Desarrollador de Software Junior
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -61,10 +61,5 @@ Tengo la **Ciberseguridad** como hobby, aquí no tengo tanta soltura pero tambi�
 
 ---
 
-## 👋 ¡Hablamos!
-
-*Happy coding!*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/npolyak/npolyak/master/docs/icons/duke.gif" width="100" alt="Java Duke Waving">
-</div>
+_"If debugging is the process of removing software bugs, then programming must be the process of putting them in."_
+- Edsger W. Dijkstra.
